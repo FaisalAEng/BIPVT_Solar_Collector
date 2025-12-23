@@ -25,7 +25,7 @@ CAD (SolidWorks, OnShape), Thermal Analysis, Heat Transfer, Design Optimization,
 
 ------------------use below ------------------------------
 # BIPVT Solar Collector – Design Enhancement
-Projects/BIPVT_Collector.jpg <!-- Replace with actual path or GitHub uploaded image -->
+[Projects/BIPVT_Collector.jpg](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/Projects/BIPVT_Collector.jpg) <!-- Replace with actual path or GitHub uploaded image -->
 
 **Capstone Project**  
 
