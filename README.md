@@ -24,4 +24,4 @@ Improving the thermal efficiency of BIPV/T systems contributes to higher energy 
 CAD (SolidWorks, OnShape), Thermal Analysis, Heat Transfer, Design Optimization, Technical Documentation
 
 ## Links
-[Portfolio Page](https://faisalaeng.github.io/portfolio-website/#)  <!-- Replace with actual link later -->
+<a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">[Portfolio Page]</a>  <!-- Replace with actual link later -->
