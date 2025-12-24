@@ -5,7 +5,7 @@
 **Capstone Project**  
 
 ## Project Overview
-This capstone project focused on redesigning part of a hybrid building-integrated photovoltaic and thermal (BIPV/T) solar air collector to improve airflow and heat transfer. The project demonstrates how careful manipulation of air inlets and turbulence-driven design can enhance thermal performance in residential and industrial applications.
+This capstone project involved redesigning key airflow components of a hybrid building-integrated photovoltaic and thermal (BIPV/T) solar air collector to enhance heat transfer and thermal performance. The work focused on controlling airflow behavior through inlet geometry and internal features to promote turbulence, enabling more effective heat extraction from the PV panels for residential and industrial applications.
 
 ## What I Did
 - Redesigned airflow path using baffles and optimized inlet geometry.
