@@ -13,7 +13,8 @@ This capstone project involved redesigning key airflow components of a hybrid bu
 - Evaluated thermal performance: achieved outlet air temperature increase of **8.7°C**.
 - Produced technical documentation with design rationale, performance metrics, and implementation recommendations.
 
-## Why It Matters
+## Outcome  
+<!-- Why It Matters -->
 Improving the thermal efficiency of BIPV/T systems contributes to higher energy capture, reduced operating costs, and more sustainable energy solutions for buildings.
 
 ## Files Included
