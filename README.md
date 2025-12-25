@@ -1,6 +1,6 @@
 <!-- uses similar syntax to html for comments and use # for headlines/titles -->
 # BIPVT Solar Collector – Design Enhancement
-![BIPVT Solar Collector](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/main/Projects/BIPVT_Collector.jpg)
+![BIPVT Solar Collector](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/main/Projects/bipvt_solar_collector.jpg)
 
 **Capstone Project**  
 <!-- add technical details later (equations, assumptions, calculations) and can edit out for visual appearance-->
