@@ -1,6 +1,6 @@
 <!-- uses similar syntax to html for comments and use # for headlines/titles -->
 # BIPVT Solar Collector – Design Enhancement
-![BIPVT Solar Collector](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/main/Projects/bipvt_solar_collector.jpg)
+![BIPVT Solar Collector](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/assets/images/projects/bipvt_solar_collector.jpg)
 
 **Capstone Project**  
 <!-- add technical details later (equations, assumptions, calculations) and can edit out for visual appearance-->
@@ -27,3 +27,5 @@ CAD (SolidWorks, OnShape), Thermal Analysis, Heat Transfer, Design Optimization,
 
 ## Links
 <a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">Portfolio Page</a>
+[Portfolio Project Page](https://FaisalAEng.github.io/portfolio-website/projects/spring_powered_elevator_prototype/spring_powered_elevator.html)
+[Technical Report (PDF)](link)
