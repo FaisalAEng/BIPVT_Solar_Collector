@@ -1,9 +1,8 @@
 <!-- uses similar syntax to html for comments and use # for headlines/titles -->
-# BIPVT Solar Collector – Design Enhancement
+# BIPVT Solar Collector Design Enhancement - Capstone Project
 ![BIPVT Solar Collector](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/assets/images/projects/bipvt_solar_collector.jpg)
 
 
-**Capstone Project**  
 <!-- add technical details later (equations, assumptions, calculations) and can edit out for visual appearance-->
 ## Project Overview
 This capstone project involved redesigning key airflow components of a hybrid building-integrated photovoltaic and thermal (BIPV/T) solar air collector to enhance heat transfer and thermal performance. The work focused on controlling airflow behavior through inlet geometry and internal features to promote turbulence, enabling more effective heat extraction from the PV panels for residential and industrial applications.
