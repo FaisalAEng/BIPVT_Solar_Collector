@@ -27,5 +27,7 @@ CAD (SolidWorks, OnShape), Thermal Analysis, Heat Transfer, Design Optimization,
 
 ## Links
 <a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">Portfolio Page</a>
+
 [Portfolio Project Page](https://FaisalAEng.github.io/portfolio-website/projects/spring_powered_elevator_prototype/spring_powered_elevator.html)
+
 [Technical Report (PDF)](link)
