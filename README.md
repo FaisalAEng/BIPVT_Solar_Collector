@@ -32,6 +32,7 @@ CAD (SolidWorks, OnShape), Thermal Analysis, Heat Transfer, Design Optimization,
 ## Links
 <a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">Portfolio Page</a>
 
-[Portfolio Project Page](https://FaisalAEng.github.io/portfolio-website/projects/spring_powered_elevator_prototype/spring_powered_elevator.html)
+[Portfolio Project Page](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector.html)
 
-[Technical Report (PDF)](link)
+[Technical Report (PDF)](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector_rep_draftplaceholder.pdf)
+
