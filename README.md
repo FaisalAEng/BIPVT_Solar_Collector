@@ -43,5 +43,7 @@ CAD (SolidWorks, OnShape), Thermal Analysis, Heat Transfer, Design Optimization,
 
 [Portfolio Project Page](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector.html)
 
-[Technical Report (PDF)](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector_rep_draftplaceholder.pdf)
+[Technical Report (PDF)](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector_report_ar_final_v1.pdf)
+
+[Conference Paper (PDF)](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/main/projects/bipvt_solar_collector/bipvt_solar_collector_conference_paper.pdf)
 
