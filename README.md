@@ -11,26 +11,29 @@
 ## Project Overview
 This capstone project focused on enhancing the thermal performance of a hybrid building-integrated photovoltaic/thermal (BIPV/T) solar air collector. The goal was to improve convective heat transfer by redesigning airflow pathways, optimizing inlet geometry, and implementing passive internal features to promote turbulence. These modifications enabled more efficient heat extraction from PV panels, supporting residential and small-scale industrial heating applications.
 
-## What I Did
-Technical Contributions (≈50%):
--Redesigned airflow path using baffles and optimized inlet geometry.
--Conducted airflow and thermal simulations using CAD and heat transfer calculations.
--Evaluated thermal performance: achieved outlet air temperature increase of 8.7°C.
--Produced technical documentation with design rationale, performance metrics, and implementation recommendations.
+## My Contributions
+Technical Contributions (~50%)
+- Redesigned airflow path using baffles and optimized inlet geometry.
+- Conducted airflow and thermal simulations using CAD and heat transfer calculations.
+- Evaluated thermal performance: achieved outlet air temperature increase of 8.7°C.
+- Produced technical documentation detailing design rationale, performance metrics, and implementation recommendations.
 
-Project Management & Reporting (≈50%):
--Coordinated team meetings, site visits, and task assignments.
--Compiled, polished, and integrated team results into the final report.
--Ensured consistency and clarity across project documentation and presentations
+Project Management & Reporting (~50%)
+- Coordinated team meetings, site visits, and task assignments.
+- Compiled, polished, and integrated team results into the final report.
+- Ensured consistency and clarity across project documentation and presentations
 
 ## Outcome  
 <!-- Why It Matters -->
-Improving the thermal efficiency of BIPV/T systems contributes to higher energy capture, reduced operating costs, and more sustainable energy solutions for buildings.
+Enhancing thermal efficiency in BIPV/T systems contributes to:
+- Higher energy capture and reduced PV panel operating temperatures.
+- Lower building energy costs through recovered thermal energy.
+- More sustainable heating solutions for residential and small-scale industrial applications.
 
 ## Files Included
 - CAD models of redesigned airflow components
-- Simulation reports
-- Technical design documents
+- Simulation reports and post-processing data
+- Technical design documents and final report (PDF)
 
 ## Key Skills
 CAD (SolidWorks, OnShape), Thermal Analysis, Heat Transfer, Design Optimization, Technical Documentation
